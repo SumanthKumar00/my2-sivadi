@@ -12,3 +12,12 @@ Kerala, located in the southern part of India, is a state that is known for its 
 2. Kerala Backwaters
 3. Exploring Tea Gardens
 4. Iconic Waterfalls
+
+---
+
+### Foods to try in Kerala
+
+* Idiyappam
+* Banana Fritters
+* Malabar Parota
+* Kozhikode Chicken Biryani
