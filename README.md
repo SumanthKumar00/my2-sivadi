@@ -23,3 +23,16 @@ Kerala, located in the southern part of India, is a state that is known for its 
 * Kozhikode Chicken Biryani
 
 https://github.com/SumanthKumar00/my2-sivadi/blob/main/MyStats.md
+
+---
+
+#### Physical Recreation Activities
+
+Recreation refers to all those activities that people choose to do to refresh their bodies and minds and make their leisure time more interesting and enjoyable.
+
+| Name | Reason | Hours Spent per Week |
+|------|--------|-------------|
+| Cycling | Fitness, Eco-Friendly, Weight Management | 10 |
+| Badminton | Coordinaton, Agility, Focus | 8 |
+| Running | Cardiovascular, Physical Fitness,Time Efficiency | 14 |
+| Chess | Critical Thinking, Mental Exercise, Patience | 7 |
