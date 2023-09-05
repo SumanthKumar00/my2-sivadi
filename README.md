@@ -44,3 +44,20 @@ Recreation refers to all those activities that people choose to do to refresh th
 >" The important thing is to never stop questioning " - *Albert Einstien*
 
 >" Life would be tragic if it weren't funny " - *Stephen Hawking*
+
+---
+
+### Code Snippet
+
+>How to Password protect a directory and all of it's subfolders using .htaccess ?
+
+[Question quoted on stack overflow](https://stackoverflow.com/questions/5229656/password-protecting-a-directory-and-all-of-its-subfolders-using-htaccess)
+
+```
+AuthType Basic
+AuthName "This Area is Password Protected"
+AuthUserFile /full/path/to/.htpasswd
+Require valid-user
+```
+
+[Source of Snippet](https://css-tricks.com/snippets/htaccess/password-protect-folders/)
