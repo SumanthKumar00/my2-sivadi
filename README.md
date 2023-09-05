@@ -21,3 +21,5 @@ Kerala, located in the southern part of India, is a state that is known for its 
 * Banana Fritters
 * Malabar Parota
 * Kozhikode Chicken Biryani
+
+https://github.com/SumanthKumar00/my2-sivadi/blob/main/MyStats.md
