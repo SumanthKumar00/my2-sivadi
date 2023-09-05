@@ -36,3 +36,11 @@ Recreation refers to all those activities that people choose to do to refresh th
 | Badminton | Coordinaton, Agility, Focus | 8 |
 | Running | Cardiovascular, Physical Fitness,Time Efficiency | 14 |
 | Chess | Critical Thinking, Mental Exercise, Patience | 7 |
+
+---
+
+#### Quote's by Scientist
+
+>" The important thing is to never stop questioning " - *Albert Einstien*
+
+>" Life would be tragic if it weren't funny " - *Stephen Hawking*
